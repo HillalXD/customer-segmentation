@@ -1,7 +1,7 @@
 
 # Mall Customer Segmentation
 
-This project use to predict temperature in indonesia on spesific month and year
+This project use to make a customer class based on customer income and age using clustering method
 
 ## Install
 
