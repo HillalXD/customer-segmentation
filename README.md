@@ -40,10 +40,10 @@ jupyter notebook knn.ipynb
 
 ## Clustering result
 
-customer age segment
+<h4><b>customer age segmentation<br>
 ![App Screenshot](scatterplot/scatter.svg)
 
-customer income segment
+<h4><b>customer income segment<br>
 ![App Screenshot](scatterplot/output.svg)
 
 
